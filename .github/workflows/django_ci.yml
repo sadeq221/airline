@@ -3,7 +3,7 @@ name: Testing
 on: push
   
 jobs:
-  build:
+  test_project:
 
     runs-on: ubuntu-latest
     
